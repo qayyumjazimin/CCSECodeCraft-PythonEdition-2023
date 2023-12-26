@@ -3,7 +3,7 @@
 This repository contains resources for mastering code craftsmanship in Python. Explore the Google Colab notebook and Python scripts to enhance your Python coding skills and learn best practices in software development. To download the contents from this repository, simply type in :
 
 ```
-git clone https://github.com/qayyumjazimin/CCSECodeCraft-PythonEdition-2023
+git clone [https://github.com/qayyumjazimin/CCSECodeCraft-PythonEdition-2023](https://github.com/qayyumjazimin/CCSECodeCraft-PythonEdition-2023)
 ```
 
 ## Contents:

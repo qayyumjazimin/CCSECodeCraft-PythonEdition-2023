@@ -1,6 +1,10 @@
 # CCSE CODE CRAFT: PYTHON EDITION 2023
 
-This repository contains resources for mastering code craftsmanship in Python. Explore the Google Colab notebook and Python scripts to enhance your Python coding skills and learn best practices in software development.
+This repository contains resources for mastering code craftsmanship in Python. Explore the Google Colab notebook and Python scripts to enhance your Python coding skills and learn best practices in software development. To download the contents from this repository, simply type in :
+
+```
+git clone https://github.com/qayyumjazimin/CCSECodeCraft-PythonEdition-2023
+```
 
 ## Contents:
 - Google Colab Notebook: Dive into interactive tutorials, exercises, and examples that cover essential Python coding techniques and principles of code craftsmanship.

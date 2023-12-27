@@ -13,3 +13,7 @@ git clone https://github.com/qayyumjazimin/CCSECodeCraft-PythonEdition-2023
 Whether you're a beginner looking to improve your Python skills or an experienced developer striving for code excellence, this repository provides valuable resources to elevate your Python programming game.
 
 Happy coding!
+
+<div style="text-align:center;">
+  <img src="https://github.com/qayyumjazimin/CCSECodeCraft-PythonEdition-2023/assets/65033421/1839bb93-4260-4cd2-a486-dda013d9ff28" width="282.5" height="400" alt="photo1703607688">
+</div>
